@@ -1,5 +1,5 @@
 # DataClient1.py
-
+#(c)Anjana M S
 from threading import Thread
 import socket, time
 
