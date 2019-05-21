@@ -39,7 +39,7 @@ def welcome():
 #Create your first real API- "recentlocation" is the API that gives recent device location
 #This API will fetch data from the MySQL Database and display it on the URL
 
-@app.route('/recentlocation')
+@app.route('/API1')
 def recentlocation():
 #Create a MySQL Cursor	
 	cur = mysql.connect().cursor()
@@ -48,7 +48,7 @@ def recentlocation():
 #Receive the SQL Response in a variable
 	r = [dict((cur.description[i][0], value) for i, value in enumerate(row)) for row in cur.fetchall()]
 #Return the respose to the URL
-	return jsonify({'Recent data' : r})
+	return jsonify({'Data' : r})
 
 #Start the Flask program
 if __name__ == '__main__':
