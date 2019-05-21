@@ -1,2 +1,2 @@
-# ***Workshop on Smart City Applications using Raspberry Pi <br>
+# Workshop on Smart City Applications using Raspberry Pi <br>
 Amrita Center for Wireless Networks & Applications (AmritaWNA) and Amrita Centre for Research and Development (ACRD) is organizing a workshop on Smart City Applications using Raspberry Pi from May 22-23, 2019, targeting graduate engineering students to equip themselves in their research and placements. This workshop will also be useful for those who want to undertake their final year projects in Smart Grid, Smart City, Smart Buildings.
